@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python, HTML, Bash, Jupyter Notebook, Css
 - How to reach me : 
-- [Twitter](https://twitter.com/MoyanoSanti28)
+- :bird: [Twitter](https://twitter.com/MoyanoSanti28)
 - [Mail Personal](santiago98moy@gmail.com)
 
 
