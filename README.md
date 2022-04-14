@@ -1,7 +1,9 @@
 ### Hi there I'm Santiago  👋
 
-- 🌱 I’m currently learning Python  HTML, Bash, Jupyter Notebook, Css
-- How to reach me : https://twitter.com/MoyanoSanti28
+- 🌱 I’m currently learning Python, HTML, Bash, Jupyter Notebook, Css
+- How to reach me : 
+- [Twitter](https://twitter.com/MoyanoSanti28)
+- [Mail Personal]
                     
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomoyan0&layout=compact)](https://github.com/santiagomoyan0/github-readme-stats)
