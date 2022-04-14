@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python  HTML, Bash, Jupyter Notebook, Css
 - How to reach me : 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomoyan0&layout=compact)](https://github.com/santiagomoyan0/github-readme-stats)
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0a&show_icons=true&theme=radical)
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true&theme=radical)
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true)
 
 <!--
