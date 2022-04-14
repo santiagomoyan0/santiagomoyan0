@@ -4,7 +4,6 @@
 - How to reach me : https://twitter.com/MoyanoSanti28
                     
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true&theme=radical)
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomoyan0&layout=compact)](https://github.com/santiagomoyan0/github-readme-stats)
 <!--
 **santiagomoyan0/santiagomoyan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
