@@ -7,7 +7,7 @@
 
 ![monkey-23](https://user-images.githubusercontent.com/65195064/163495596-47019af9-d482-4e77-a7df-a56c7208a137.gif)
                     
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomoyan0&layout=compact)](https://github.com/santiagomoyan0/github-readme-stats)
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagomoyan0&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagomoyan0&layout=compact&theme=dark)](https://github.com/santiagomoyan0/github-readme-stats)
 
 
 
