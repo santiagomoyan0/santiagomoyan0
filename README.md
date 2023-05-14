@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Python, Docker, Html, Jupyter Notebook<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java, Javascript ...<br>💬 Ask me about<br>⚡ Fun fact
+![monkey-23](https://user-images.githubusercontent.com/65195064/163495596-47019af9-d482-4e77-a7df-a56c7208a137.gif)
 
 
 ## 🌐 Socials:
@@ -15,10 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=santiagomoyan0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=santiagomoyan0&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
